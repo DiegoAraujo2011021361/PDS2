@@ -5,10 +5,11 @@ Sistema de gestao de RH -  folha de pagamento
 
 Funções:
 
-- Realizar consulta de informações de todos os funcionários de uma empresa.
-- Realizar consulta de individual de cada funcionário.
-- Calcular salario de funcionários que recebem comissão.
-- Calcular salario de funcionários que não são comissionados.
+- Realizar consulta de informações sobre pagamento de todos os funcionários de uma empresa.
+- Realizar consulta sobre pagamento de cada funcionário individualmente.
+- Calcular salário de funcionários que recebem comissão.
+- Calcular salário de funcionários que não são comissionados.
+- Exibir informações na tela.
 
 Teste:
 
@@ -17,8 +18,7 @@ Teste:
 - Escolher entre as opções de consultar dados de todos funcionários ou consultar individualmente cada funcionário. 
   Para tal deve se digitar 1 ou 2 no menu de seleção.
 
-- Digitando um 1, o programa busca no arquivo clients.dat a pelos dados de todos funcionários de uma empresa. Posteriormente exibe essas informações na tela. 
-  Essa etapa pressupõe que numa situação real o arquivo seria disponibilizado por outro dispositivo, como uma maquina de ponto. 
+- Digitando um 1, o programa busca no arquivo clients.dat a pelos dados de todos funcionários de uma empresa. Posteriormente  exibe essas informações na tela. Essa etapa pressupõe que numa situação real o arquivo seria disponibilizado por outro dispositivo, como uma máquina de ponto. 
 
 - Digitando um 2, o programa  entra na opção de consulta individual. A matricula do funcionário é requerida. 
   Deve se digitar um numero de 1 a 10, pois o quadro de funcionários é de 10 pessoas . 
