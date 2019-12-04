@@ -34,7 +34,7 @@ Teste:
 
 Observações:
 
--Foram utilizados os seguintes conceitos no desenvolvimento do TP:  
+  Foram utilizados os seguintes conceitos no desenvolvimento do TP:  
 
 	* Encapsulamento;
 	* Herança;
