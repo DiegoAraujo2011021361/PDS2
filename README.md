@@ -5,8 +5,8 @@ Sistema de gestao de RH -  folha de pagamento
 
 Funções:
 
-- Realizar consulta de informações sobre pagamento de todos os funcionários de uma empresa.
-- Realizar consulta sobre pagamento de cada funcionário individualmente.
+- Realizar consulta de informações sobre pagamento de todos os funcionários de uma empresa no mês corrente.
+- Realizar consulta sobre pagamento de cada funcionário individualmente no mês corrente.
 - Calcular salário de funcionários que recebem comissão.
 - Calcular salário de funcionários que não são comissionados.
 - Exibir informações na tela.
