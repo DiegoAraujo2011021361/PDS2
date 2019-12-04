@@ -1,0 +1,20 @@
+UserStories:  
+
+Como um gerente de RH eu gostaria de visualizar o salário de um funcionário no mês corrente para efetuar o pagamento de um funcionário.
+
+Critérios de aceitação:
+
+  * Exibir matrícula, nome e cargo.
+  * Exibir taxa de comissão e vendas realizadas.
+  * Exibir salário base.
+  * Exibir cálculo do salário total.  
+  
+
+Como um gerente de RH eu gostaria de visualizar informações sobre vendas totais realizadas e taxa de comissão de todos os funcionários da empresa para efetuar validar um balanço contábil.  
+
+Critérios de aceitação:
+
+   * Exibir matrícula, nome e cargo.
+   * Exibir taxa de comissão e vendas realizadas.
+   * Exibir salário base.
+
